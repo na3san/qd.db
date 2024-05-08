@@ -1,6 +1,6 @@
 {
   "name": "qd.db",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "description": "A simple json database package that belongs to the Quantum Developers server in Discord",
   "main": "src/quantum.js",
   "scripts": {
