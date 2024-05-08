@@ -1,0 +1,12 @@
+{
+  "name": "qd.db",
+  "version": "3.0.0",
+  "description": "A simple json database package that belongs to the Quantum Developers server in Discord",
+  "main": "src/quantum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["json-db", "json-database", "backend", "qd.db", "quantum", "quantum-developers", "quantum.db", "db", "database"],
+  "author": "Mr, Na3san",
+  "license": "MIT"
+}
